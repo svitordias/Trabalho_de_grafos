@@ -46,3 +46,13 @@ Por fim, a função print() vazia é usada após o loop interno para imprimir um
 
 Essa modificação no código permite a exibição da tabela de pesos das arestas na tela com linhas e colunas demarcadas, facilitando a visualização dos dados do grafo.
 
+Com isso, será exibido no console o seguinte resultado:
+
+Tabela de pesos das arestas:
+        V1      V2      V3      V4      V5      V6
+V1      0       33      44      22      17      11
+V2      0       0       19      45      7       77
+V3      0       0       0       0       30      24
+V4      0       0       0       0       10      5 
+V5      0       0       0       0       0       9 
+V6      0       0       0       0       0       0 
