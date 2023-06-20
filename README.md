@@ -1,7 +1,12 @@
 # Trabalho_de_grafos
 ## Estrutura de dados - Trabalho de grafos
 
-**O código começa importando a biblioteca numpy com a linha import numpy as np. Essa biblioteca é amplamente utilizada para trabalhar com arrays multidimensionais e é particularmente útil para manipular matrizes.**
+O código começa importando a biblioteca numpy com a linha:
+
+``` python
+import numpy as np
+```
+Essa biblioteca é amplamente utilizada para trabalhar com arrays multidimensionais e é particularmente útil para manipular matrizes.
 
 Em seguida, temos a definição da função representar_grafo(). Essa função foi criada para lidar com grafos e matrizes de adjacências. É dentro dessa função que todo o trabalho será realizado.
 
