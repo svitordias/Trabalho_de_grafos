@@ -1,4 +1,4 @@
-# Trabalho_de_grafos
+# Trabalho de Grafos
 ## Estrutura de dados - Trabalho de grafos
 
 O código começa importando a biblioteca numpy com a linha:
