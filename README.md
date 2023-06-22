@@ -4,7 +4,7 @@ Este código em Python permite ler uma tabela de pesos de arestas a partir de um
 
 ## **Pré-requisitos**
 
-:heavy_check_mark: Python 3.x
+:heavy_check_mark: Python 3.x                 
 :heavy_check_mark: Bibliotecas: numpy, networkx, matplotlib
 
 Certifique-se de ter o Python instalado em seu sistema e instale as bibliotecas necessárias executando o seguinte comando:
